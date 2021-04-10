@@ -23,6 +23,7 @@ function ajaxUpdate(url, element) {
   ajax.send(null);
 }
 
+
 window.addEventListener('load', function () {
 
   var url = "ajax.html";
